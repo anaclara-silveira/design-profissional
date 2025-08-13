@@ -12,7 +12,7 @@ A disciplina visa desenvolver competências essenciais para o ingresso e crescim
 - Comunicação e networking profissional
 - Planejamento de carreira na computação
 
--  📚 O que eu aprendi
+## 📚 O que eu aprendi
 
 Durante o desenvolvimento deste projeto, aprendi e aprimorei as seguintes habilidades:
 
