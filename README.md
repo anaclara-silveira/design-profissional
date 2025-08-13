@@ -11,3 +11,11 @@ A disciplina visa desenvolver competências essenciais para o ingresso e crescim
 - Portfólio técnico e projetos relevantes
 - Comunicação e networking profissional
 - Planejamento de carreira na computação
+
+-  📚 O que eu aprendi
+
+Durante o desenvolvimento deste projeto, aprendi e aprimorei as seguintes habilidades:
+
+- ✅ Como estruturar um projeto de forma organizada e profissional
+- ✅ Práticas de versionamento de código com Git e GitHub
+- ✅ Documentação e escrita de um README claro e objetivo
